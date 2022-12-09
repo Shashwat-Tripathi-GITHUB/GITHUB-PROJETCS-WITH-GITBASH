@@ -1,2 +1,5 @@
 Hello World!!!
 Welcome to the first ever file commited by me to the github using only gitbash terminal.
+-----------------------------------------------------------------------------------------
+This is the second day using gitbash and github. Getting forward to learn more today as the
+video is still left
