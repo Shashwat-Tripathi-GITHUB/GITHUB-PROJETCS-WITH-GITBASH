@@ -1,6 +1,4 @@
-HELLO EVERYONE IN THIS FILE I AM GOING TO SHARE DAILY WHAT I HAVE LEARNED THROUGH GITBASH
-AND GITHUB. IT COULD EITHER BE COMMANDS TO USE OR ANY OTHER TYPE OF DAILY LEARNING SUCH AS 
-ANY TIP TO USE GITBASH OR GITHUB WHICH MAKES THE PROCESS EASIER OR MORE INTERACTIVE AND 
-INTERESTING.
-Let's start from the beginning. Create a file using mkdir(make a directory) and then 
-initialise git in it using(git init)[which means git initialise]. 
+HELLO EVERYONE IN THIS FILE I AM GOING TO SHARE DAILY WHAT I HAVE LEARNED THROUGH GITBASH AND GITHUB. IT COULD EITHER BE COMMANDS TO USE OR ANY OTHER TYPE OF DAILY LEARNING SUCH AS ANY TIP 
+TO USE GITBASH OR GITHUB WHICH MAKES THE PROCESS EASIER OR MORE INTERACTIVE AND INTERESTING.Let's start from the beginning. Create a file using mkdir(make a directory) and 
+then initialise git in it using(git init)[which means git initialise].After initialising the git in the folder using gitbash apply different commands to accomplish tasks.
+First let's see in what directory of our desktop we are working. To do this we will use the <pwd>[present working directory]. 
