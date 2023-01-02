@@ -1,7 +1,6 @@
-HELLO EVERYONE IN THIS FILE I AM GOING TO SHARE DAILY WHAT I HAVE LEARNED THROUGH GITBASH AND GITHUB. IT COULD EITHER BE COMMANDS TO USE OR ANY OTHER TYPE OF DAILY LEARNING SUCH AS ANY TIP 
-TO USE GITBASH OR GITHUB WHICH MAKES THE PROCESS EASIER OR MORE INTERACTIVE AND INTERESTING.Let's start from the beginning. Create a file using mkdir(make a directory) and 
-then initialise git in it using(git init)[which means git initialise].After initialising the git in the folder using gitbash apply different commands to accomplish tasks.
+HELLO EVERYONE IN THIS FILE I AM GOING TO SHARE DAILY WHAT I HAVE LEARNED THROUGH GITBASH AND GITHUB. IT COULD EITHER BE COMMANDS TO USE OR ANY OTHER TYPE OF DAILY LEARNING SUCH AS ANY TIP TO USE GITBASH OR GITHUB WHICH MAKES THE PROCESS EASIER OR MORE INTERACTIVE AND INTERESTING.Let's start from the beginning. Create a file using mkdir(make a directory) and then initialise git in it using(git init)[which means git initialise].After initialising the git in the folder using gitbash apply different commands to accomplish tasks.
 First let's see in what directory of our desktop we are working. To do this we will use the <pwd>[present working directory]. 
 Recently resolved the issue with user.email using the [git config --global user.email ]command. The problem it was causing was that my commits were not shown in the github repository.
 Now, lets get back to learning commands. Some commands are really similar to the ones used in Linux. So we have already talked about initialising the git repository and aslo getting to know about the present working directory. Other commands that are similar are cd and ls i.e., change directory and list command. From today we will focus on individual commands and get complete knowledge about each command for each others understanding.
+Now for learning new commands we would refer the internet as well as the help section provided in the gitbash terminal.
 
